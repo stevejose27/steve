@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "enter the elements into the array"
+echo "enter the elements into the array please"
 read -a r
 sum=0
 for i in ${r[@]}
